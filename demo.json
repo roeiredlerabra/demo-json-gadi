@@ -1,12 +1,5 @@
 [
-  {
-    "id": 1,
-    "name": "Alice Johnson",
-    "email": "alice.johnson@example.com",
-    "age": 28,
-    "status": "active"
-  },
-  {
+{
     "id": 2,
     "name": "Bob Smith",
     "email": "bob.smith@example.com",
